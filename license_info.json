@@ -1,0 +1,14 @@
+[
+  {
+    "pc_name": "VF-HUNGNQ37-L1",
+    "seed": "8B4C5574769C1ABD",
+    "key": "A1B2C3D4E5F6G7H8",
+    "version": "1.0.0"
+  },
+  {
+    "pc_name": "VF-OTHERPC",
+    "seed": "1234567890ABCDEF",
+    "key": "FFEEDDCCBBAA9988",
+    "version": "1.0.1"
+  }
+]
