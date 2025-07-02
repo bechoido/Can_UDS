@@ -3,12 +3,12 @@
     "pc_name": "VF-HUNGNQ37-L1",
     "seed": "8B4C5574769C1ABD",
     "key": "DD70AC090A359B84",
-    "version": "1.0.0"
+    "app_version": "1.0.0"
   },
   {
     "pc_name": "VF-OTHERPC",
     "seed": "1234567890ABCDEF",
     "key": "FFEEDDCCBBAA9988",
-    "version": "1.0.1"
+    "app_version": "1.0.1"
   }
 ]
